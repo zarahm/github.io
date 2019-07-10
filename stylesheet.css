@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+/*@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 @import url('https://fonts.google.com/specimen/DM+Serif+Display');
-@import url('https://fonts.google.com/specimen/Satisfy');
+@import url('https://fonts.google.com/specimen/Satisfy');*/
 body {
 background-color: #AFEEEE;
 color: white;
@@ -89,7 +89,7 @@ h2 {
   font-size: 12 px;
 }
 p {
-  font-family: Open Sans
+  font-family: Tangerine;
 }
 #enlarged {
   width: 100px;
