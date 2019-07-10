@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 body {
 background-color: #AFEEEE;
 color: white;
@@ -82,8 +83,11 @@ h1 {
 }
 
 h2 {
-  font-family: Georgia;
+  font-family: DM Serif Display;
   font-size: 12 px;
+}
+p {
+  font-family: Open Sans
 }
 #enlarged {
   width: 100px;
