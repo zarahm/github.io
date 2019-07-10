@@ -8,7 +8,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: ##e9eaeb;
 }
 li {
   float: left;
@@ -21,7 +21,7 @@ li a {
   text-decoration: none;
 }
 li a:hover {
-  background-color: #111
+  background-color: ##e9eaeb
 }
 #name {
   font-family: Impact;
