@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 @import url('https://fonts.google.com/specimen/DM+Serif+Display');
+@import url('https://fonts.google.com/specimen/Satisfy');
 body {
 background-color: #AFEEEE;
 color: white;
@@ -78,8 +79,8 @@ text-align: center;
 
 h1 {
   text-align: center;
-  font-size:30px;
-  font-family: Bookman serif;
+  font-size:80px;
+  font-family: Satisfy;
 
 }
 
