@@ -8,7 +8,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #e9eaeb;
+  /*background-color: #e9eaeb;*/
 }
 li {
   float: left;
@@ -31,7 +31,7 @@ li.dropdown {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #e9eab
+ background-color: #e9eab
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2)
   z-index: 1;
@@ -54,14 +54,14 @@ li.dropdown {
   text-align: center;
 }
 
-.dropbtn {
+/*.dropbtn {
   background-color: #D3D2EA;
   color: white;
   padding: 16px;
   font-size: 16px;
-  border: none;
+  border: none;*/
  
-}
+/*}
 .dropdown {
   position: relative;
   display: inline-block;
