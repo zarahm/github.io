@@ -95,3 +95,7 @@ p {
   width: 100px;
   height: 100px;
 }
+#self {
+  font-family: Open Sans;
+  size: 30 px;
+}
