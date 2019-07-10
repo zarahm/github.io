@@ -1,5 +1,6 @@
 body {
-background-color: #AFEEEE;
+/*background-color: #AFEEEE;*/
+background-image: linear-gradient(blue, white);  
 color: white;
 text-align: center;
 }
