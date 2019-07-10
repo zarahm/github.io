@@ -1,0 +1,35 @@
+body {
+background-color: #AFEEEE;
+color: white;
+text-align: center;
+}
+#name {
+  font-family: Impact;
+  text-align: center;
+}
+#bio {
+
+}
+#gif {
+  width: auto;
+  height:50 px
+  padding:10 px
+  margin: 50 px
+  align: "middle"
+}
+
+h1 {
+  text-align: left;
+  font-size:30px;
+  font-family: Bookman serif;
+
+}
+
+h2 {
+  font-family: Georgia;
+  font-size: 12 px;
+}
+#enlarged {
+  width: 100px;
+  height: 100px;
+}
