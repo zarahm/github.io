@@ -4,6 +4,7 @@
 <head>
   <Title>Contact Us</Title>
 </head>
+  <body>
 <div class="container">
   <form action="action_page.php">
 
@@ -27,8 +28,8 @@
 
   </form>
 </div>
-  <div id="map"></div>
-    <script>
+<div id="map"></div>
+ <script>
 // Initialize and add the map
 function initMap() {
   // The location of SF
@@ -39,5 +40,8 @@ function initMap() {
   // The marker, positioned at SF
   var marker = new google.maps.Marker({position: sf, map: map});
 }
+ </script>   
    <script async defer src="https://maps.googleapis.com/maps/api/js?key=YAIzaSyCf9nwd6QEdTlK8k9Dy9stp3nC6Iod_wF0&callback=initMap">
-</script>
+   </script>
+  </body>
+</html>
