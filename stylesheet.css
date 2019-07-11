@@ -1,6 +1,8 @@
 /*@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 @import url('https://fonts.google.com/specimen/DM+Serif+Display');
-@import url('https://fonts.google.com/specimen/Satisfy');*/
+@import url('https://fonts.google.com/specimen/Satisfy');
+add flex box for img*/
+
 body {
 background-color: #AFEEEE;
 color: white;
