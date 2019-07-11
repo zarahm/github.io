@@ -101,3 +101,8 @@ p {
   font-family: Open Sans;
   size: 30 px;
 }
+#map {
+  height: 400px;
+  width: 100%;
+  background-color: grey;
+}
